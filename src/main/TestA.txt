@@ -1,1 +1,2 @@
 This is Text File A from Main for squash Merge.
+This is new changes from the branch3.
